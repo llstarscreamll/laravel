@@ -15,7 +15,7 @@
         "Authorization"
     ],
     "require": {
-        "illuminate/support": "~6",
+        "illuminate/support": "~7",
         "spatie/laravel-permission": "3.*"
     },
     "require-dev": {

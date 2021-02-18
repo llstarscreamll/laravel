@@ -15,7 +15,7 @@
         "WorkShifts"
     ],
     "require": {
-        "illuminate/support": "~6",
+        "illuminate/support": "~7",
         "kirby/core": "*"
     },
     "require-dev": {

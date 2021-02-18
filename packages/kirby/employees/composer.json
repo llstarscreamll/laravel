@@ -15,7 +15,7 @@
         "Employees"
     ],
     "require": {
-        "illuminate/support": "~6",
+        "illuminate/support": "~7",
         "league/csv": "^9.0"
     },
     "require-dev": {
